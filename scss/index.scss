@@ -30,6 +30,9 @@
   font-family: "Euclid-Circular-B-Medium";
   src: url("/fonts/Euclid-Circular-B-Medium.ttf") format("truetype");
 }
+* {
+  box-sizing: border-box;
+}
 
 body {
   background-color: #eceff8;
